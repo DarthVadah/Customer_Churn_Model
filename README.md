@@ -12,6 +12,5 @@ Sample Results
 - Training and Validation Loss:
   [Include description or link to the plot image]
 
-- Sample Predictions:
-  The script displays sample predictions made by the trained model on the test data.
+
 
