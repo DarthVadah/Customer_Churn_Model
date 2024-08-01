@@ -28,7 +28,13 @@ A summary of the findings can be seen in the images below:
 Using annual (2014) historic energy demand and consumption data, the project seeks to find any seasonal patterns in energy demand. The project makes use of Mean Absolute Error as well as Mean Absolute 
 Percentage Error as important tools. Seasonality is found on a daily, weekly, and quarterly basis. The reasons are therefore infered from the findings of an in depth dive in to the seasonal 
 temperature flactuations in the country. The outcomes of this project can give rise to a lot of energy saving, energy pricing per unit and also potential energy shortage mitigation measures, should the
-need arise.
+need arise. Upon research, It was seen that the temperature requirements of the inhibitants of  Paris, are the main reason for the flactuating energy demands.
+The analysed data can be seen below, along with the forecasted energy requirements.
+![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/timeseries%20showing%20energy%20demand.png)
+![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/daily%20electricity%20demand.png)
+![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/weekly%20energy%20demand.png)
+![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/monthly%20demand.png)
+![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/average%20Hourky%20Demand%20VS%20Demand%20Prof.png)
 
 ### [Project 3: Deployed Machine Learning Based Card Holder Segmentation System](https://github.com/DarthVadah/Deployed-Machine-Learning-Based-Card-Holder-Segmentation-System)
 The project begins with meticulous data preparation, followed by an extensive exploratory data analysis (EDA) to uncover underlying patterns and 
