@@ -26,7 +26,7 @@ real-time customer segmentation.
 
 #### Contact Me
 
-I am open to collaborations, job opportunities, and discussions related to data analysis and beyond. Feel free to reach out to me via email at rahman.mabano@gmail.com, and connect with me on LinkedIn. I look forward to hearing from you!
+I am open to collaborations, job opportunities, and discussions related to data analysis and beyond. Feel free to reach out to me via email at rahman.mabano@gmail.com, and connect with me on [LinkedIn](https://www.linkedin.com/in/rahman-mabano-98384b20b/). I look forward to hearing from you!
 
 
 
