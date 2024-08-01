@@ -7,7 +7,7 @@ Rahman aims to provide well-communicated insights that facilitate informed decis
 
 Click each project below, to view project files and findings.
 
-### Project 1: Customer Churn Prediction Model Using a Neural Network Model
+### [Project 1: Customer Churn Prediction Model Using a Neural Network Model](https://github.com/DarthVadah/Customer-Churn-Prediction-Model-Using-a-Neural-Network-Model)
 This project was conducted in collaboration with a bank in Cyprus which has also key branches in 
 Germany, Spain and France, to predict customer churn. The analysis involved using key libraries such 
 as TensorFlow and Keras for building machine learning models, as well as Pandas and Seaborn for 
