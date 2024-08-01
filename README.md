@@ -7,8 +7,15 @@ Rahman aims to provide well-communicated insights that facilitate informed decis
 
 Click each project below, to view project files and findings.
 
-### Project 1: Customer Churn Model
-Customer churn prediction involves identifying customers who are likely to cancel their subscription or stop using a service. This project utilizes machine learning techniques to predict churn based on various customer attributes.
+### Project 1: Customer Churn Prediction Model Using a Neural Network Model
+This project was conducted in collaboration with a bank in Cyprus which has also key branches in 
+Germany, Spain and France, to predict customer churn. The analysis involved using key libraries such 
+as TensorFlow and Keras for building machine learning models, as well as Pandas and Seaborn for 
+data manipulation and visualization. The final model achieved an accuracy of 87%. Key steps 
+included data preprocessing, exploratory data analysis (EDA), model building, training, dataset 
+balancing, and hyperparameter tuning. The insights derived from this analysis aim to help the bank in 
+identifying customers likely to churn, thereby informing strategies to improve customer retention.
+
 
 ### Project 2: Intraday Energy Demand Analysis and Prediction (France)
 Using annual (2014) historic energy demand and consumption data, the project seeks to find any seasonal patterns in energy demand. The project makes use of Mean Absolute Error as well as Mean Absolute 
@@ -18,9 +25,8 @@ need arise.
 
 ### Project 3: Deployed Machine Learning Based Card Holder Segmentation System
 The project begins with meticulous data preparation, followed by an extensive exploratory data analysis (EDA) to uncover underlying patterns and 
-relationships. Employing a Random Forest classifier with carefully tuned hyperparameters, the project demonstrates 
-how quality data is more instrumental than complex models when it comes to predictive accuracy. A comparative analysis of models, 
-including learning curve assessments, reveals the intricacies of overfitting and the importance of feature selection. The 
+relationships. Employing a Random Forest classifier with carefully tuned hyperparameters, the project demonstrates how quality data is more instrumental than complex models when it comes to predictive accuracy. A comparative analysis of models, including learning curve assessments, reveals the intricacies of overfitting and the importance of feature selection. 
+The 
 culmination of this project is the deployment of the most effective model in a Flask-based web application, showcasing 
 real-time customer segmentation.
 
