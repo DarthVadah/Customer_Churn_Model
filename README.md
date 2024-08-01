@@ -28,7 +28,8 @@ A summary of the findings can be seen in the images below:
 Using annual (2014) historic energy demand and consumption data, the project seeks to find any seasonal patterns in energy demand. The project makes use of Mean Absolute Error as well as Mean Absolute 
 Percentage Error as important tools. Seasonality is found on a daily, weekly, and quarterly basis. The reasons are therefore infered from the findings of an in depth dive in to the seasonal 
 temperature flactuations in the country. The outcomes of this project can give rise to a lot of energy saving, energy pricing per unit and also potential energy shortage mitigation measures, should the
-need arise. Upon research, It was seen that the temperature requirements of the inhibitants of  Paris, are the main reason for the flactuating energy demands.
+need arise. Upon research, It was seen that the temperature changes due to changes in weather conditions also lead to the direct proportional change in energy demands of the inhibitants of  Paris. 
+Besides daily and annual seasonal requirements of energy, an interesting weekly pattern can be seen, showing that more energy is required on weekends, perhaps due to entertainment and recreational requirements, since most  people are not actively going to work around these times of the week.
 The analysed data can be seen below, along with the forecasted energy requirements.
 ![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/timeseries%20showing%20energy%20demand.png)
 ![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/daily%20electricity%20demand.png)
