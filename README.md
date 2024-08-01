@@ -15,6 +15,13 @@ data manipulation and visualization. The final model achieved an accuracy of 87%
 included data preprocessing, exploratory data analysis (EDA), model building, training, dataset 
 balancing, and hyperparameter tuning. The insights derived from this analysis aim to help the bank in 
 identifying customers likely to churn, thereby informing strategies to improve customer retention.
+A summary of the findings can be seen in the images below:
+
+![](https://github.com/DarthVadah/Rahman_-Data-Analyst-Portfolio/blob/main/Graphs/hist.png)
+
+![](https://github.com/DarthVadah/Rahman_-Data-Analyst-Portfolio/blob/main/Graphs/Keras.png)
+
+![](https://github.com/DarthVadah/Rahman_-Data-Analyst-Portfolio/blob/main/Graphs/Training%20and%20Validation%20Accuracy.png)
 
 
 ### [Project 2: Intraday Energy Demand Analysis and Prediction (France)](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting)
