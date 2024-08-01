@@ -17,13 +17,13 @@ balancing, and hyperparameter tuning. The insights derived from this analysis ai
 identifying customers likely to churn, thereby informing strategies to improve customer retention.
 
 
-### Project 2: Intraday Energy Demand Analysis and Prediction (France)
+### [Project 2: Intraday Energy Demand Analysis and Prediction (France)](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting)
 Using annual (2014) historic energy demand and consumption data, the project seeks to find any seasonal patterns in energy demand. The project makes use of Mean Absolute Error as well as Mean Absolute 
 Percentage Error as important tools. Seasonality is found on a daily, weekly, and quarterly basis. The reasons are therefore infered from the findings of an in depth dive in to the seasonal 
 temperature flactuations in the country. The outcomes of this project can give rise to a lot of energy saving, energy pricing per unit and also potential energy shortage mitigation measures, should the
 need arise.
 
-### Project 3: Deployed Machine Learning Based Card Holder Segmentation System
+### [Project 3: Deployed Machine Learning Based Card Holder Segmentation System](https://github.com/DarthVadah/Deployed-Machine-Learning-Based-Card-Holder-Segmentation-System)
 The project begins with meticulous data preparation, followed by an extensive exploratory data analysis (EDA) to uncover underlying patterns and 
 relationships. Employing a Random Forest classifier with carefully tuned hyperparameters, the project demonstrates how quality data is more instrumental than complex models when it comes to predictive accuracy. A comparative analysis of models, including learning curve assessments, reveals the intricacies of overfitting and the importance of feature selection. 
 The 
