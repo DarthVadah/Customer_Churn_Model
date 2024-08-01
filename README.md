@@ -17,11 +17,11 @@ balancing, and hyperparameter tuning. The insights derived from this analysis ai
 identifying customers likely to churn, thereby informing strategies to improve customer retention.
 A summary of the findings can be seen in the images below:
 
-![](https://github.com/DarthVadah/Rahman_-Data-Analyst-Portfolio/blob/main/Graphs/hist.png)
+![](https://github.com/DarthVadah/Customer-Churn-Prediction-Model-Using-a-Neural-Network-Model/blob/main/images/hist.png)
 
-![](https://github.com/DarthVadah/Rahman_-Data-Analyst-Portfolio/blob/main/Graphs/Keras.png)
+![](https://github.com/DarthVadah/Customer-Churn-Prediction-Model-Using-a-Neural-Network-Model/blob/main/images/Keras.png)
 
-![](https://github.com/DarthVadah/Rahman_-Data-Analyst-Portfolio/blob/main/Graphs/Training%20and%20Validation%20Accuracy.png)
+![](https://github.com/DarthVadah/Customer-Churn-Prediction-Model-Using-a-Neural-Network-Model/blob/main/image/Training%20and%20Validation%20Accuracy.png)
 
 
 ### [Project 2: Intraday Energy Demand Analysis and Prediction (France)](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting)
@@ -43,6 +43,10 @@ relationships. Employing a Random Forest classifier with carefully tuned hyperpa
 The 
 culmination of this project is the deployment of the most effective model in a Flask-based web application, showcasing 
 real-time customer segmentation.
+
+![]()
+![]()
+![]()
 
 #### Contact Me
 
