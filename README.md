@@ -38,15 +38,17 @@ The analysed data can be seen below, along with the forecasted energy requiremen
 ![](https://github.com/DarthVadah/France-Intraday-Energy-Demand-Analysis-and-Forecasting/blob/main/GRAPHS/average%20Hourky%20Demand%20VS%20Demand%20Prof.png)
 
 ### [Project 3: Deployed Machine Learning Based Card Holder Segmentation System](https://github.com/DarthVadah/Deployed-Machine-Learning-Based-Card-Holder-Segmentation-System)
-The project begins with meticulous data preparation, followed by an extensive exploratory data analysis (EDA) to uncover underlying patterns and 
-relationships. Employing a Random Forest classifier with carefully tuned hyperparameters, the project demonstrates how quality data is more instrumental than complex models when it comes to predictive accuracy. A comparative analysis of models, including learning curve assessments, reveals the intricacies of overfitting and the importance of feature selection. 
-The 
-culmination of this project is the deployment of the most effective model in a Flask-based web application, showcasing 
-real-time customer segmentation.
+The project begins with meticulous data preparation, followed by an extensive exploratory data analysis (EDA) to uncover underlying patterns and relationships. Employing a Random Forest classifier with carefully tuned hyperparameters, the project demonstrates how quality data is more instrumental than complex models when it comes to predictive accuracy. A comparative analysis of models, including learning curve assessments, reveals the intricacies of overfitting and the importance of feature selection. 
+The culmination of this project is the deployment of the most effective model in a Flask-based web application, showcasing real-time customer segmentation.
 
-![]()
-![]()
-![]()
+Here is the dataset before and after cleaning, handling missing data, applying log transformation, and ecoding
+![](https://github.com/DarthVadah/Deployed-Machine-Learning-Based-Card-Holder-Segmentation-System/blob/main/graphs/DATA%20CLEANING.png)
+
+Then a Random Forrest Classifer to segregate customer class, based on income and expenditure level. 
+![](https://github.com/DarthVadah/Deployed-Machine-Learning-Based-Card-Holder-Segmentation-System/blob/main/graphs/before_after_log_Scale.png)
+
+The model's learning curves can be seen below:
+![](https://github.com/DarthVadah/Deployed-Machine-Learning-Based-Card-Holder-Segmentation-System/blob/main/graphs/Learning%20Curves%20RF.jpg)
 
 #### Contact Me
 
